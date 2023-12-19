@@ -7,7 +7,7 @@ This project is a Django REST API that manages information about companies and e
 ## Installation🔽
 
 1. **Clone the Repository:
-   - git clone https://github.com/yourusername/your-repo.git
+   - git clone https://github.com/harshitsinghcode/hawk-api
    - cd your-repo
 
 2. **Create a Virtual Environment (Optional but in my case, i've done it):
