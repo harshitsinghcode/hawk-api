@@ -67,6 +67,6 @@ I welcome contributions to make this project even better!
 5. Open a pull request
 
 ## License 📜
-This project is licensed under the MIT Liscence.
+This project is licensed under the MIT License.
 
 Always Onwards and Upwards! 🚀
