@@ -1,8 +1,6 @@
 from django.db import models
 
-# Create your models here.
 
-#creating models here.
 class Company(models.Model):
     comany_id=models.AutoField(primary_key=True)
     name= models.CharField(max_length=50)
@@ -29,7 +27,7 @@ class Employee(models.Model):
     position=models.CharField(max_length=50,choices=(
         ('Manager','manager'),
         ('SDE','SDE'),
-        ('Project Lead','pl')
+        ('Project Lead','PL')
     ))
     
     company=models.ForeignKey(Company, on_delete=models.CASCADE)
